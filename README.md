@@ -3,7 +3,7 @@ __Purpose:__ Examining two existing claims reserving methods, Mack model and the
 
 __Context:__ The second chapter of my research MSc in statistics thesis
 
-__Language:__ R
+__Language:__ R (Written in very basic R, could be refactored for efficency)
 
 __Note:__ I did this project before I knew of the wonders of version control and git. Also the commenting and coding practices leave something to be desired. 
 
